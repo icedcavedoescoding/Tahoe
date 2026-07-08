@@ -3,7 +3,7 @@
 </p>
 
 
-Tahoe is an minimal IDE for beginners or some Professionals, its like vscode but very Light 
+Tahoe is an minimal IDE for beginners or some Professionals and it has very Beautiful UI except for Light mode
 
 Features:
 
