@@ -10,6 +10,6 @@ Features:
 - Terminal
 - Files
 - Light mode (Warning its very Hideous)
-- Made in C#
+  
 
   
